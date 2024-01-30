@@ -1,6 +1,10 @@
 # smith-waterman-algo-java
 **Smith Waterman Algorithm Java Implementation with comparison of Mycoplasmoides genitalium G37 Strain and Basic Generic Sequence.**
 
+• Developed a robust Java implementation of the Smith-Waterman algorithm, a fundamental dynamic programming algorithm in bioinformatics for local sequence alignment.
+
+• Applied the algorithm to compare the genomic sequence of Mycoplasmoides genitalium G37 Strain (580,070 base pairs) with a basic generic sequence, enabling the identification of significant local similarities despite insertions, deletions, or mutations.
+
 Important Bioinformatics Dynamic Programming Algorithm used in local sequence alignment implemented in Java. Used to find the optimal local alignment between two genomic sequences. Sequence1 in the code represents the genomic sequence of   Mycoplasmoides genitalium G37 Strain (approximately 580,070 base pairs) as found on NCBI, whilst the Sequence2 is a basic generic "AGT" sequence.
 
 FNA File Downloaded from -> Genomic Sequence:https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000027325.1/
